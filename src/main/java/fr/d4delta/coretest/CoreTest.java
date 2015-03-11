@@ -2,7 +2,6 @@ package fr.d4delta.coretest;
 
 import fr.d4delta.dcore.CentralizedRegisterer;
 import fr.d4delta.dcore.Core;
-
 /**
  *
  * @author D4Death
