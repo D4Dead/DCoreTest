@@ -5,7 +5,7 @@ Well it's so minimalistic you can wonder why use a an api when you can write thi
 
 # Dependecies
 
-This project needs this dependecies
+This project needs this dependecies:
 
 * DCore
 * DExceptionUtil
