@@ -21,13 +21,13 @@ public class TestArtifact extends Artifact<CoreTest> {
     }
     
     public void init(InitEvent event) {
-        startTime = Calendar.getInstance().getTimeInMillis();
         System.out.println("Initing");
     }
     
     @EventOption(options = {"POSITION=START"})
     public void startTick(TickEvent event) {
         System.out.println("Start ticking");
+        
     }
     
     public void tick(TickEvent event) {
